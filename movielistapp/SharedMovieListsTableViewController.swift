@@ -38,9 +38,9 @@ class SharedMovieListsTableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let storyBoard : UIStoryboard = UIStoryboard(name: "Main", bundle:nil)
         let sharedListController = storyBoard.instantiateViewController(withIdentifier: "SharedListTableViewController")
+    //sharedListController.modalPresentationStyle = .fullScreen
         
         self.present(sharedListController, animated:true, completion:nil)
-        
     }
 }
 
