@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86553CF4-93E4-4016-B6F2-E517AA1380D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E8D4E03-DD20-45D1-B517-4497E2BE5C4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movielistapp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA95257C-BB0D-44B8-A657-9F99F4E73384"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movielistapp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movielistapp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - 6d6a4fc1a75e213e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.userInputField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - c96b6c14cc7dfd32"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.userInputField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - 105616a0f693ba43"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.userInputField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - 3a88818e53bc832c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.userInputField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - f989df406a0d4756"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; movielistapp.ViewController"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "27030AB2-5DC3-4C50-A1B0-EBDCEEF92418 - d01169f7cf6f7fe8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movielistapp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;movielistapp.ViewController&gt;"
+                  moduleName = "movielistapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172317/Desktop/movielistapp/movielistapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
